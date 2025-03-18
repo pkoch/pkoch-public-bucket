@@ -1,0 +1,13 @@
+version: "0.2"
+ignorePaths:
+  - "package*.json"
+dictionaries:
+  - project-words
+  - html
+  - node
+  - typescript
+  - bash
+dictionaryDefinitions:
+  - name: project-words
+    path: ./project-words.txt
+    addWords: true
