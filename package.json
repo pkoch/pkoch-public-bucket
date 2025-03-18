@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Access to the pkoch-public bucket.",
   "main": "index.js",
+  "engines": {
+    "node": "^22.11",
+    "npm": "^10.9"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "wrangler dev",
