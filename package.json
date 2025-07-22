@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/pkoch/pkoch-public-bucket#readme",
   "devDependencies": {
-    "wrangler": "^4.13.2"
+    "wrangler": "^4.25.1"
   }
 }
