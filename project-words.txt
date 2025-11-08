@@ -1,2 +1,7 @@
 pkoch
 awscli
+jwks
+jwt
+iss
+aud
+nbf
